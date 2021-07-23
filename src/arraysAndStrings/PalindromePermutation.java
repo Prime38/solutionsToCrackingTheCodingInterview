@@ -34,6 +34,15 @@ public class PalindromePermutation {
     static boolean checkExactlyOneBitSet(int bitVector) {
         return (bitVector & (bitVector - 1)) == 0;
     }
+    static int getCharNumber(Character c) {
+        int a = Character.getNumericValue('a');
+        int z = Character.getNumericValue('z');
+        int val = Character.getNumericValue(c);
+        if (a <= val && val <= z) {
+            return val - a;
+        }
+        return -1;
+    }
 
 
     //my solution
@@ -59,15 +68,7 @@ public class PalindromePermutation {
         return true;
     }
 
-    static int getCharNumber(Character c) {
-        int a = Character.getNumericValue('a');
-        int z = Character.getNumericValue('z');
-        int val = Character.getNumericValue(c);
-        if (a <= val && val <= z) {
-            return val - a;
-        }
-        return -1;
-    }
+
 
     static String removeAllSpaces(String s) {
         int len = s.length();

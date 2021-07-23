@@ -1,17 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="" />
+    <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/CheckPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/IsUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1veT4KbCUx2xUVbVcBJNL7EWlAv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.IsUnique">
+    <configuration name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.CheckPermutation" />
+      <module name="solutionToCrackingTheCodingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.IsUnique" />
+      <module name="solutionToCrackingTheCodingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IsUnique" />
+        <item itemvalue="Application.CheckPermutation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -23,13 +81,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626921362356</updated>
+      <workItem from="1626921365177" duration="1880000" />
+      <workItem from="1627004465599" duration="139000" />
+      <workItem from="1627020419462" duration="3006000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="495" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1626921367066">
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom" timestamp="1627030736397">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state x="495" y="339" key="com.intellij.ide.util.TipDialog/0.25.1680.966@0.25.1680.966" timestamp="1626921367066" />
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627030736397" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center" timestamp="1627030736396">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627030736396" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left" timestamp="1627030736395">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627030736395" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right" timestamp="1627030736396">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627030736396" />
+    <state x="495" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1627004535173">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state x="495" y="339" key="com.intellij.ide.util.TipDialog/0.25.1680.966@0.25.1680.966" timestamp="1627004535173" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraysAndStrings/IsUnique.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

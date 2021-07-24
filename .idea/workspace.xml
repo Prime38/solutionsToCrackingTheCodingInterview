@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ZeroMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,7 @@
       <workItem from="1626921365177" duration="1880000" />
       <workItem from="1627004465599" duration="139000" />
       <workItem from="1627020419462" duration="9823000" />
-      <workItem from="1627132796260" duration="6149000" />
+      <workItem from="1627132796260" duration="7088000" />
     </task>
     <servers />
   </component>

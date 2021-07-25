@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/KthToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +38,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.RotateMatrix">
+  <component name="RunManager" selected="Application.KthToLast">
+    <configuration name="KthToLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.KthToLast" />
+      <module name="solutionToCrackingTheCodingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OneAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysAndStrings.OneAway" />
       <module name="solutionToCrackingTheCodingInterview" />
@@ -48,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.PalindromePermutation" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveDuplicates" />
       <module name="solutionToCrackingTheCodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.URLify" />
-      <module name="solutionToCrackingTheCodingInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthToLast" />
+        <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="Application.StringCompression" />
         <item itemvalue="Application.OneAway" />
-        <item itemvalue="Application.PalindromePermutation" />
-        <item itemvalue="Application.URLify" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +127,8 @@
       <workItem from="1626921365177" duration="1880000" />
       <workItem from="1627004465599" duration="139000" />
       <workItem from="1627020419462" duration="9823000" />
-      <workItem from="1627132796260" duration="7088000" />
+      <workItem from="1627132796260" duration="7350000" />
+      <workItem from="1627168752743" duration="6050000" />
     </task>
     <servers />
   </component>
@@ -131,22 +136,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="822" height="309" key="GridCell.Tab.0.bottom" timestamp="1627139660826">
+    <state width="822" height="275" key="GridCell.Tab.0.bottom" timestamp="1627176745856">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627139660826" />
-    <state width="822" height="309" key="GridCell.Tab.0.center" timestamp="1627139660825">
+    <state width="822" height="275" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627176745856" />
+    <state width="822" height="275" key="GridCell.Tab.0.center" timestamp="1627176745855">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627139660825" />
-    <state width="822" height="309" key="GridCell.Tab.0.left" timestamp="1627139660824">
+    <state width="822" height="275" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627176745855" />
+    <state width="822" height="275" key="GridCell.Tab.0.left" timestamp="1627176745854">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627139660824" />
-    <state width="822" height="309" key="GridCell.Tab.0.right" timestamp="1627139660825">
+    <state width="822" height="275" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627176745854" />
+    <state width="822" height="275" key="GridCell.Tab.0.right" timestamp="1627176745855">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627139660825" />
+    <state width="822" height="275" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627176745855" />
     <state width="822" height="309" key="GridCell.Tab.1.bottom" timestamp="1627139660827">
       <screen x="0" y="25" width="1680" height="966" />
     </state>

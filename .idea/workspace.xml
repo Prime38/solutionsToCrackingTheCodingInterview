@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/linkedList/DeleteMiddleNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/KthToLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/KthToLast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/KthToLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/KthToLast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.KthToLast">
-    <configuration name="KthToLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.KthToLast" />
+  <component name="RunManager" selected="Application.DeleteMiddleNode">
+    <configuration name="DeleteMiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.DeleteMiddleNode" />
       <module name="solutionToCrackingTheCodingInterview" />
       <extension name="coverage">
         <pattern>
@@ -50,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.OneAway" />
+    <configuration name="KthToLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.KthToLast" />
       <module name="solutionToCrackingTheCodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteMiddleNode" />
         <item itemvalue="Application.KthToLast" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="Application.StringCompression" />
-        <item itemvalue="Application.OneAway" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +125,7 @@
       <workItem from="1627004465599" duration="139000" />
       <workItem from="1627020419462" duration="9823000" />
       <workItem from="1627132796260" duration="7350000" />
-      <workItem from="1627168752743" duration="8123000" />
+      <workItem from="1627168752743" duration="9067000" />
     </task>
     <servers />
   </component>
@@ -138,38 +137,38 @@
       <screen x="0" y="25" width="1680" height="966" />
     </state>
     <state x="1011" y="218" key="#xdebugger.evaluate/0.25.1680.966@0.25.1680.966" timestamp="1627177847517" />
-    <state width="822" height="309" key="GridCell.Tab.0.bottom" timestamp="1627182048373">
+    <state width="822" height="275" key="GridCell.Tab.0.bottom" timestamp="1627182871031">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627182048373" />
-    <state width="822" height="309" key="GridCell.Tab.0.center" timestamp="1627182048371">
+    <state width="822" height="275" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627182871031" />
+    <state width="822" height="275" key="GridCell.Tab.0.center" timestamp="1627182871031">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627182048371" />
-    <state width="822" height="309" key="GridCell.Tab.0.left" timestamp="1627182048371">
+    <state width="822" height="275" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627182871031" />
+    <state width="822" height="275" key="GridCell.Tab.0.left" timestamp="1627182871030">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627182048371" />
-    <state width="822" height="309" key="GridCell.Tab.0.right" timestamp="1627182048372">
+    <state width="822" height="275" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627182871030" />
+    <state width="822" height="275" key="GridCell.Tab.0.right" timestamp="1627182871031">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627182048372" />
-    <state width="822" height="309" key="GridCell.Tab.1.bottom" timestamp="1627181898625">
+    <state width="822" height="275" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627182871031" />
+    <state width="822" height="309" key="GridCell.Tab.1.bottom" timestamp="1627182558907">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627181898625" />
-    <state width="822" height="309" key="GridCell.Tab.1.center" timestamp="1627181898625">
+    <state width="822" height="309" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627182558907" />
+    <state width="822" height="309" key="GridCell.Tab.1.center" timestamp="1627182558907">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1627181898625" />
-    <state width="822" height="309" key="GridCell.Tab.1.left" timestamp="1627181898624">
+    <state width="822" height="309" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1627182558907" />
+    <state width="822" height="309" key="GridCell.Tab.1.left" timestamp="1627182558906">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1627181898624" />
-    <state width="822" height="309" key="GridCell.Tab.1.right" timestamp="1627181898625">
+    <state width="822" height="309" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1627182558906" />
+    <state width="822" height="309" key="GridCell.Tab.1.right" timestamp="1627182558907">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1627181898625" />
+    <state width="822" height="309" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1627182558907" />
     <state x="495" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1627004535173">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
@@ -209,13 +208,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/linkedList/KthToLast.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="7" />
+          <line>30</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/linkedList/KthToLast.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="8" />
+          <line>32</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

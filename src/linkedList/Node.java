@@ -3,6 +3,10 @@ package linkedList;
 public class Node<T> {
     T data;
     Node next;
+    public Node(){
+        this.data=null;
+        this.next=null;
+    }
 
     public Node(T val) {
         this.data = val;
@@ -13,4 +17,5 @@ public class Node<T> {
         this.data = val;
         this.next = next;
     }
+
 }

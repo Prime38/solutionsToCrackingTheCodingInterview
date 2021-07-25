@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/KthToLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/SinglyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/KthToLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/KthToLast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/KthToLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/KthToLast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +126,7 @@
       <workItem from="1627004465599" duration="139000" />
       <workItem from="1627020419462" duration="9823000" />
       <workItem from="1627132796260" duration="7350000" />
-      <workItem from="1627168752743" duration="6050000" />
+      <workItem from="1627168752743" duration="8123000" />
     </task>
     <servers />
   </component>
@@ -136,38 +134,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="822" height="275" key="GridCell.Tab.0.bottom" timestamp="1627176745856">
+    <state x="1011" y="218" key="#xdebugger.evaluate" timestamp="1627177847517">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627176745856" />
-    <state width="822" height="275" key="GridCell.Tab.0.center" timestamp="1627176745855">
+    <state x="1011" y="218" key="#xdebugger.evaluate/0.25.1680.966@0.25.1680.966" timestamp="1627177847517" />
+    <state width="822" height="309" key="GridCell.Tab.0.bottom" timestamp="1627182048373">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627176745855" />
-    <state width="822" height="275" key="GridCell.Tab.0.left" timestamp="1627176745854">
+    <state width="822" height="309" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627182048373" />
+    <state width="822" height="309" key="GridCell.Tab.0.center" timestamp="1627182048371">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627176745854" />
-    <state width="822" height="275" key="GridCell.Tab.0.right" timestamp="1627176745855">
+    <state width="822" height="309" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627182048371" />
+    <state width="822" height="309" key="GridCell.Tab.0.left" timestamp="1627182048371">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627176745855" />
-    <state width="822" height="309" key="GridCell.Tab.1.bottom" timestamp="1627139660827">
+    <state width="822" height="309" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627182048371" />
+    <state width="822" height="309" key="GridCell.Tab.0.right" timestamp="1627182048372">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627139660827" />
-    <state width="822" height="309" key="GridCell.Tab.1.center" timestamp="1627139660826">
+    <state width="822" height="309" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627182048372" />
+    <state width="822" height="309" key="GridCell.Tab.1.bottom" timestamp="1627181898625">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1627139660826" />
-    <state width="822" height="309" key="GridCell.Tab.1.left" timestamp="1627139660826">
+    <state width="822" height="309" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627181898625" />
+    <state width="822" height="309" key="GridCell.Tab.1.center" timestamp="1627181898625">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1627139660826" />
-    <state width="822" height="309" key="GridCell.Tab.1.right" timestamp="1627139660827">
+    <state width="822" height="309" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1627181898625" />
+    <state width="822" height="309" key="GridCell.Tab.1.left" timestamp="1627181898624">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1627139660827" />
+    <state width="822" height="309" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1627181898624" />
+    <state width="822" height="309" key="GridCell.Tab.1.right" timestamp="1627181898625">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="822" height="309" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1627181898625" />
     <state x="495" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1627004535173">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
@@ -204,6 +206,16 @@
           <url>file://$PROJECT_DIR$/src/arraysAndStrings/RotateMatrix.java</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedList/KthToLast.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedList/KthToLast.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

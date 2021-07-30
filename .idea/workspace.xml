@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/SumLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists$PartialSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists$PartialSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +37,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.SumLists">
+  <component name="RunManager" selected="Application.TestString">
     <configuration name="DeleteMiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.DeleteMiddleNode" />
       <module name="solutionToCrackingTheCodingInterview" />
@@ -76,19 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveDuplicates" />
-      <module name="solutionToCrackingTheCodingInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.SumLists" />
       <module name="solutionToCrackingTheCodingInterview" />
@@ -102,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.TestString" />
+      <module name="solutionToCrackingTheCodingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestString" />
         <item itemvalue="Application.SumLists" />
         <item itemvalue="Application.Partition" />
         <item itemvalue="Application.DeleteMiddleNode" />
         <item itemvalue="Application.KthToLast" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +130,12 @@
       <workItem from="1627020419462" duration="9823000" />
       <workItem from="1627132796260" duration="7350000" />
       <workItem from="1627168752743" duration="14861000" />
-      <workItem from="1627192398220" duration="4099000" />
+      <workItem from="1627192398220" duration="8240000" />
+      <workItem from="1627265049073" duration="9000" />
+      <workItem from="1627369077884" duration="1009000" />
+      <workItem from="1627374376214" duration="997000" />
+      <workItem from="1627470490901" duration="1176000" />
+      <workItem from="1627626683307" duration="837000" />
     </task>
     <servers />
   </component>
@@ -135,42 +143,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1061" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1627220190943">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state x="1061" y="229" key="#com.intellij.ide.util.MemberChooser/0.25.1680.966@0.25.1680.966" timestamp="1627220190943" />
     <state x="1011" y="218" key="#xdebugger.evaluate" timestamp="1627177847517">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
     <state x="1011" y="218" key="#xdebugger.evaluate/0.25.1680.966@0.25.1680.966" timestamp="1627177847517" />
-    <state width="822" height="275" key="GridCell.Tab.0.bottom" timestamp="1627204623278">
+    <state width="944" height="362" key="GridCell.Tab.0.bottom" timestamp="1627390818775">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627204623278" />
-    <state width="822" height="275" key="GridCell.Tab.0.center" timestamp="1627204623277">
+    <state width="944" height="362" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627390818775" />
+    <state width="944" height="362" key="GridCell.Tab.0.center" timestamp="1627390818773">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627204623277" />
-    <state width="822" height="275" key="GridCell.Tab.0.left" timestamp="1627204623277">
+    <state width="944" height="362" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1627390818773" />
+    <state width="944" height="362" key="GridCell.Tab.0.left" timestamp="1627390818771">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627204623277" />
-    <state width="822" height="275" key="GridCell.Tab.0.right" timestamp="1627204623278">
+    <state width="944" height="362" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1627390818771" />
+    <state width="944" height="362" key="GridCell.Tab.0.right" timestamp="1627390818774">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="275" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627204623278" />
-    <state width="822" height="309" key="GridCell.Tab.1.bottom" timestamp="1627191535230">
+    <state width="944" height="362" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1627390818774" />
+    <state width="944" height="362" key="GridCell.Tab.1.bottom" timestamp="1627390818778">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627191535230" />
-    <state width="822" height="309" key="GridCell.Tab.1.center" timestamp="1627191535229">
+    <state width="944" height="362" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1627390818778" />
+    <state width="944" height="362" key="GridCell.Tab.1.center" timestamp="1627390818777">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1627191535229" />
-    <state width="822" height="309" key="GridCell.Tab.1.left" timestamp="1627191535229">
+    <state width="944" height="362" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1627390818777" />
+    <state width="944" height="362" key="GridCell.Tab.1.left" timestamp="1627390818776">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1627191535229" />
-    <state width="822" height="309" key="GridCell.Tab.1.right" timestamp="1627191535229">
+    <state width="944" height="362" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1627390818776" />
+    <state width="944" height="362" key="GridCell.Tab.1.right" timestamp="1627390818777">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="822" height="309" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1627191535229" />
+    <state width="944" height="362" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1627390818777" />
     <state x="495" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1627004535173">
       <screen x="0" y="25" width="1680" height="966" />
     </state>
@@ -217,6 +229,16 @@
           <url>file://$PROJECT_DIR$/src/linkedList/KthToLast.java</url>
           <line>32</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraysAndStrings/TestString.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraysAndStrings/TestString.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

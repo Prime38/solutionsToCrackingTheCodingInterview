@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists$PartialSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists$PartialSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutionToCrackingTheCodingInterview/linkedList/SumLists.class" afterDir="false" />
-    </list>
+    <list default="true" id="64fda4b3-09ec-4bb9-a112-a66ba5a9eeee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +129,7 @@
       <workItem from="1627369077884" duration="1009000" />
       <workItem from="1627374376214" duration="997000" />
       <workItem from="1627470490901" duration="1176000" />
-      <workItem from="1627626683307" duration="837000" />
+      <workItem from="1627626683307" duration="1002000" />
     </task>
     <servers />
   </component>
